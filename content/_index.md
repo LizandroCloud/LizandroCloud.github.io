@@ -56,7 +56,9 @@ sections:
       text: |-
         Universidade Federal Fluminense (UFF), Niterói, RJ.
 
-        GitHub: [LizandroCloud](https://github.com/LizandroCloud)
+        - GitHub: [LizandroCloud](https://github.com/LizandroCloud)
+        - LinkedIn: [lizandro-santos](https://www.linkedin.com/in/lizandro-santos-80aa215b/)
+        - Currículo Lattes: [lattes.cnpq.br/3463927972972691](http://lattes.cnpq.br/3463927972972691)
     design:
       columns: '1'
 ---

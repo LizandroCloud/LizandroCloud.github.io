@@ -22,18 +22,18 @@ affiliations:
 links:
   - icon: brands/github
     url: https://github.com/LizandroCloud
-  # TODO: e-mail, LinkedIn, Google Scholar, ORCID e Lattes
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/lizandro-santos-80aa215b/
+  - icon: academicons/lattes
+    url: http://lattes.cnpq.br/3463927972972691
+  # TODO: e-mail, Google Scholar e ORCID
   # - icon: at-symbol
   #   url: mailto:seu.email@id.uff.br
   #   label: E-mail
-  # - icon: brands/linkedin
-  #   url: https://www.linkedin.com/in/SEU-PERFIL/
   # - icon: academicons/google-scholar
   #   url: https://scholar.google.com/citations?user=SEU-ID
   # - icon: academicons/orcid
   #   url: https://orcid.org/0000-0000-0000-0000
-  # - icon: academicons/lattes
-  #   url: http://lattes.cnpq.br/SEU-ID
 
 interests:
   - Otimização dinâmica e controle ótimo
